@@ -1,0 +1,8 @@
+5
+Atlanta Boston
+Atlanta Miami
+Boston Dallas
+Boston Houston
+Boston Miami
+Dallas Houston
+Houston Miami
